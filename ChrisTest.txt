@@ -1,2 +1,3 @@
 Chris:Adding a new file.
 Angel:This is FREAKING awesome!
+Chris: We have gotten the hang of pushing and pulling on github.
